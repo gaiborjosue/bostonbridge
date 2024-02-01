@@ -1,4 +1,4 @@
-![Green and White  LinkedIn Header](https://github.com/UMB-CS-Club/bostonbridge/assets/78832141/f4d330c7-b640-477b-ae7b-7dd34904bd03)
+![Green and White  LinkedIn Header (2)](https://github.com/gaiborjosue/bostonbridge/assets/78832141/e54bb1c4-e6aa-4822-97d4-144f2c003413)
 
 
 # 🌉 BostonBridge Hackathon 2024 at UMass Boston
